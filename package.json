@@ -1,0 +1,25 @@
+{
+  "name": "employeetracker",
+  "version": "1.0.0",
+  "description": "To track employees and add employess",
+  "main": "server.js",
+  "scripts": {
+    "test": "N/A",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aecop/EmployeeTracker.git"
+  },
+  "author": "Aecop",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Aecop/EmployeeTracker/issues"
+  },
+  "homepage": "https://github.com/Aecop/EmployeeTracker#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "inquirer": "^9.1.4",
+    "mysql2": "^3.0.1"
+  }
+}
